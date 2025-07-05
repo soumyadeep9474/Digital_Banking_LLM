@@ -1,5 +1,5 @@
 # Demo Video
-https://youtu.be/C9y4qZZVE8o 
+[![Watch the video](https://img.youtube.com/vi/C9y4qZZVE8o/0.jpg)](https://youtu.be/C9y4qZZVE8o)
 
 # Setup and Run Instructions
 Follow these steps to set up and run the project locally:
